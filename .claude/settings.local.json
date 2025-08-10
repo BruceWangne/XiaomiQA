@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "WebFetch(domain:mp.weixin.qq.com)",
+      "Bash(dir:*)",
+      "Bash(curl:*)",
+      "Bash(rd:*)",
+      "Bash(rm -rf \"D:\\Source\\Repos\\XiaomiQA\\小米汽车答网友问(第2集)\")"
+    ],
+    "deny": []
+  }
+}
