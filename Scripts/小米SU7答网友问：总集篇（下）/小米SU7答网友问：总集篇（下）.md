@@ -1,7 +1,7 @@
 ---
 title: 
 source: https://mp.weixin.qq.com/s/XTXm0nvbo3yphpcVjXw46g
-date: 2025-08-10 16:24:40
+date: 2025-08-10 17:05:09
 ---
 
 ![cover_image](images/img_bae2d3d2.jpg)
@@ -1246,6 +1246,8 @@ ______
 
   
 
+![img_108d9064.jpg](images/img_108d9064.jpg)
+
   
 
 
@@ -1257,6 +1259,8 @@ ______
 购车后统一到当地的交付中心提车。
 
 交付中心会预约用户提车时间，需携带以下材料：
+
+![img_0686b9e9.jpg](images/img_0686b9e9.jpg)
 
   
 
@@ -1436,11 +1440,17 @@ ______
 
   
 
-  
+![img_333a1080.jpg](images/img_333a1080.jpg)
 
   
 
   
+
+  
+
+![img_1c3b5537.jpg](images/img_1c3b5537.jpg)
+
+![img_61052fb0.jpg](images/img_61052fb0.jpg)
 
 [](<>)[](<>)
 
